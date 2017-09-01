@@ -57,8 +57,6 @@ namespace ANSI{
 class AnsiUtility{
 
 public:
-    //static constexpr std::string ZERO = get_set_position(0,0);
-    //static constexpr std::string CLEAR_ALL_SCREEN = get_clear_screen(ANSI::FromTo::ALL);
 
     static AnsiUtility& get_instance(){
         static AnsiUtility instance;
