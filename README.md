@@ -1,2 +1,2 @@
 # ANSI_Utility
-A litte utility for ASNI
+A litte utility for ANSI
